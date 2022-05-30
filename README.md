@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @mmayorga97 - https://www.linkedin.com/in/marcelinomayorga/
-- 👀 I’m interested in ... Predictions, risks and planning, video games, code (Python/C#)
-- 🌱 I’m currently learning ... Machine Learning! (AI Masters in Progress)
-- 💞️ I’m looking to collaborate on ... Anywhere I can help :) 
-- 📫 How to reach me ... marcelino.mayorga@gmail.com
+- 👋 Hi, I’m Marcelino Mayorga (@mmayorga97), Software Engineering w/ MSIT on IA
+- 👀 I’m interested machine and deep learning, risks and planning, video games and coding in general
+- 🌱 I’m currently learning ... Reinforcement Learning applied to 🎮(Super Puzzle Fighter II)[https://en.wikipedia.org/wiki/Super_Puzzle_Fighter_II_Turbo]
+- 📫 Reach me at: marcelino.mayorga@gmail.com
+- 🎟️ Portfolio repository by request
 - 
-- Learn about AI Intro #ToDo: Table
+- Learn about AI:
 -   https://www.deeplearning.ai/program/ai-for-everyone/
 -   https://ai.google/responsibilities/responsible-ai-practices/
 -   https://www.tensorflow.org/resources/learn-ml
