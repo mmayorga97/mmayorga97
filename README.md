@@ -1,8 +1,12 @@
-- 👋 Hi, I’m [Marcelino Mayorga](https://www.linkedin.com/in/marcelinomayorga/) (@mmayorga97), Software Engineering with MSIT on Artificial Intelligence 2022
-- 👀 I’m interested machine and deep learning, risks and planning, video games and coding in general
-- 🌱 I’m currently learning ... Reinforcement Learning applied to 🎮[Super Puzzle Fighter II](https://en.wikipedia.org/wiki/Super_Puzzle_Fighter_II_Turbo)
-- 📫 Reach me at: marcelino.mayorga@gmail.com
-- 🎟️ Portfolio repository access by request
+👋 Hi, I’m [Marcelino Mayorga](https://www.linkedin.com/in/marcelinomayorga/) (@mmayorga97), Software Engineering with MSIT on Artificial Intelligence 2022
+
+👀 I’m interested machine and deep learning, risks and planning, video games and coding in general
+
+🌱 I’m currently learning ... Reinforcement Learning applied to 🎮[Super Puzzle Fighter II](https://en.wikipedia.org/wiki/Super_Puzzle_Fighter_II_Turbo)
+
+📫 Reach me at: marcelino.mayorga@gmail.com
+
+🎟️ Portfolio repository access by request
 
 
 - Learn about AI:
