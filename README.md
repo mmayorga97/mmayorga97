@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marcelino Mayorga (@mmayorga97), Software Engineering w/ MSIT on IA
 - 👀 I’m interested machine and deep learning, risks and planning, video games and coding in general
-- 🌱 I’m currently learning ... Reinforcement Learning applied to 🎮 (Super Puzzle Fighter II)[https://en.wikipedia.org/wiki/Super_Puzzle_Fighter_II_Turbo]
+- 🌱 I’m currently learning ... Reinforcement Learning applied to 🎮[Super Puzzle Fighter II](https://en.wikipedia.org/wiki/Super_Puzzle_Fighter_II_Turbo)
 - 📫 Reach me at: marcelino.mayorga@gmail.com
 - 🎟️ Portfolio repository by request
 - 
