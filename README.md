@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning ... Reinforcement Learning applied to 🎮[Super Puzzle Fighter II](https://en.wikipedia.org/wiki/Super_Puzzle_Fighter_II_Turbo)
 - 📫 Reach me at: marcelino.mayorga@gmail.com
 - 🎟️ Portfolio repository access by request
-- 
+
+
 - Learn about AI:
 -   https://www.deeplearning.ai/program/ai-for-everyone/
 -   https://ai.google/responsibilities/responsible-ai-practices/
