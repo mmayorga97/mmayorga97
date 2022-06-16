@@ -1,4 +1,4 @@
-👋 Hi, I’m [Marcelino Mayorga](https://www.linkedin.com/in/marcelinomayorga/) (@mmayorga97), Software Engineering with MSIT on Artificial Intelligence 2022
+👋 Hi, I’m [Marcelino Mayorga](https://www.linkedin.com/in/marcelinomayorga/) (@mmayorga97), Software Engineering with MSc. in Artificial Intelligence
 
 👀 I’m interested machine and deep learning, risks and planning, video games and coding in general
 
