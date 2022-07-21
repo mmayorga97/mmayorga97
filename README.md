@@ -2,7 +2,7 @@
 
 👀 I’m interested machine and deep learning, risks and planning, video games and coding in general
 
-🌱 I’m currently learning: Reinforcement Learning applied to 🎮[Super Puzzle Fighter II](https://en.wikipedia.org/wiki/Super_Puzzle_Fighter_II_Turbo) and Kaggle!
+🌱 I’m currently learning: Reinforcement Learning applied to 🎮[Super Puzzle Fighter II](https://en.wikipedia.org/wiki/Super_Puzzle_Fighter_II_Turbo) and Unsupervised Learning
 
 📫 Reach me at: marcelino.mayorga@gmail.com
 
