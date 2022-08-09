@@ -9,14 +9,14 @@
 🎟️ Portfolio repository access by request
 
 
-- Learn about AI:
+Learn about AI:
 -   https://www.deeplearning.ai/program/ai-for-everyone/
 -   https://ai.google/responsibilities/responsible-ai-practices/
 -   https://www.tensorflow.org/resources/learn-ml
 -   https://developers.google.com/machine-learning/crash-course/ml-intro
 -   https://ml-ops.org/#gettingstarted
 
-- Books (Personal Pick):
+Books (Personal Pick):
 -   [Designing Machine Learning Systems](https://read.amazon.com/kp/embed?asin=B0B1LGL2SR&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_HAG6Y4V4ZB44V53KD34M) by [Chip Huyen](https://github.com/chiphuyen/chiphuyen)
 
 <!---
