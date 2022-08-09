@@ -5,10 +5,11 @@
 🌱 I'm working on: 
 - [Pipelines](https://www.datarobot.com/blog/what-a-machine-learning-pipeline-is-and-why-its-important/)
 - [MLOPS](https://ml-ops.org/#gettingstarted)
+-  [KubeFlow](https://www.kubeflow.org/docs/started/)
 
 🚧 Backlog: 
 - Reinforcement Learning applied to 🎮[Super Puzzle Fighter II](https://en.wikipedia.org/wiki/Super_Puzzle_Fighter_II_Turbo)
-- [KubeFlow](https://www.kubeflow.org/docs/started/)
+
 
 ✅ Recently done:
 - [Unsupervised Learning @ Kaggle's July Challenge](https://www.kaggle.com/competitions/tabular-playground-series-aug-2022/overview/description)
