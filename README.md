@@ -16,7 +16,7 @@
 
 📫 Reach me at: marcelino.mayorga@gmail.com
 
-🎟️ Portfolio repository access by request
+🎟️ [Portfolio](https://github.com/mmayorga97/portfolio) repository access by request
 
 
 Learn about AI:
