@@ -3,6 +3,7 @@
 👀 I’m interested machine and deep learning, risks and planning, video games and coding in general
 
 🌱 I'm working on: 
+- [AutoML: Pycaret, Auto-keras, autogluon, etc]
 - [Pipelines](https://www.datarobot.com/blog/what-a-machine-learning-pipeline-is-and-why-its-important/)
 - [MLOPS](https://ml-ops.org/#gettingstarted)
 -  [KubeFlow](https://www.kubeflow.org/docs/started/)
