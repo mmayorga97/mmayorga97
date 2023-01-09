@@ -3,10 +3,10 @@
 👀 I’m interested machine and deep learning, risks and planning, video games and coding in general
 
 🌱 I'm working on: 
-- [AutoML: Pycaret, Auto-keras, autogluon, etc]
-- [Pipelines](https://www.datarobot.com/blog/what-a-machine-learning-pipeline-is-and-why-its-important/)
-- [MLOPS](https://ml-ops.org/#gettingstarted)
--  [KubeFlow](https://www.kubeflow.org/docs/started/)
+- [ClearML](https://clear.ml/)
+- [Unity and ML Agents](https://github.com/Unity-Technologies/ml-agents)
+- [GCP ML](https://www.cloudskillsboost.google/paths/17)
+
 
 🚧 Backlog: 
 - Reinforcement Learning applied to 🎮[Super Puzzle Fighter II](https://en.wikipedia.org/wiki/Super_Puzzle_Fighter_II_Turbo)
@@ -17,7 +17,7 @@
 
 📫 Reach me at: marcelino.mayorga@gmail.com
 
-🎟️ [Portfolio](https://github.com/mmayorga97/portfolio) repository access by request
+🎟️ [Portfolio](https://www.marcelinomayorga.com/index#Portfolio) repository access by request
 
 
 Learn about AI:
