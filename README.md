@@ -4,6 +4,7 @@
 
 🌱 I'm working on: 
 - [ClearML](https://clear.ml/)
+- [StableDiffusion](https://stablediffusion.fr/demo)
 - [Unity and ML Agents](https://github.com/Unity-Technologies/ml-agents)
 - [GCP ML](https://www.cloudskillsboost.google/paths/17)
 
