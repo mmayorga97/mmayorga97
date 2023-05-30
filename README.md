@@ -3,8 +3,7 @@
 👀 I’m interested machine and deep learning, risks and planning, video games and coding in general
 
 🌱 I'm working on: 
-- Reinforcement Learning applied to 🎮[Super Puzzle Fighter II](https://en.wikipedia.org/wiki/Super_Puzzle_Fighter_II_Turbo)
-- [ClearML](https://clear.ml/)
+- Reinforcement Learning applied to 🎮[Super Puzzle Fighter II](https://en.wikipedia.org/wiki/Super_Puzzle_Fighter_II_Turbo) with Gymnasium, Optuna and Stable Baselines 3.
 
 🚧 Backlog: 
 - [StableDiffusion](https://stablediffusion.fr/demo)
