@@ -11,6 +11,7 @@
 - [GCP ML](https://www.cloudskillsboost.google/paths/17)
 
 ✅ Recently done:
+- [Coffee Recommender](https://coffeerecapp-4gkbo5rvbq-uc.a.run.app/)
 - [Unsupervised Learning @ Kaggle's July Challenge](https://www.kaggle.com/competitions/tabular-playground-series-aug-2022/overview/description)
 
 📫 Reach me at: marcelino.mayorga@gmail.com
